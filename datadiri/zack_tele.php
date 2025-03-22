@@ -1,7 +1,7 @@
 <?php
 
 
-$telegram_id = '6342655801';
-$secret_token = '6416467548:AAFUh8g58BosWYpeFP9ni0hIHPRuwtvzNkU';
+$telegram_id = '7473162109';
+$secret_token = '7473162109:AAHlZazL3uaaq-O89d3u43YeV5Mf9Yg0VsE';
 
 ?>
