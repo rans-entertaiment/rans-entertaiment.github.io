@@ -28,7 +28,7 @@ body {
 	background-size: cover;
 	position: relative;
 	margin:auto;
-	max-width: 400px;
+	max-width: 100%;
 	height: auto;
 	border-bottom: #CDF0FA solid;
 	border: 2px solid #CDF0FA;
