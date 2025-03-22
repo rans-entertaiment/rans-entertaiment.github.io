@@ -154,6 +154,7 @@ body {
 	background-size:100% 100%;
 	width:100%;
 	height:50px;
+	text-align: center;
 	border-top: #CDF0FA solid;
 	border-bottom: #CDF0FA solid;
 	margin-top:-20px;
@@ -164,10 +165,8 @@ body {
 .season-alert-title {
 	width: auto;
 	height: auto;
-	margin-left: 40px;
 	padding-top: 10px;
 	color: #fff;
-	padding-left: 70px;
 	font-size: 25px;
 	font-family: Teko;
 	font-weight: 500;
@@ -177,8 +176,6 @@ body {
 .season-alert-desc {
 	width: auto;
 	height: auto;
-	padding-left: 100px;
-	margin-left: 40px;
 	padding-top: 10px;
 	color: #fff;
 	font-size: 25px;
